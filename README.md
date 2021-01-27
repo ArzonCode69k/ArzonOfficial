@@ -9,6 +9,10 @@
 
 - 🔭 I’m currently working on @StackRP
 - 👯 I’m looking to collaborate on ArzonCorp
+- 🐌 I am currently working on role-playing servers with FiveM
+- 🔎 I am currently learning the Development of LUA, FiveM, MySql, VueJs
+- ✌️ I like working with other developers
+- 💻 I have heels for the computer
 
 <br/>
 
