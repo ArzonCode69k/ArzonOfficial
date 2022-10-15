@@ -52,7 +52,7 @@
 
 </details>
 
-[twitch]: https://www.twitch.tv/nirosten
-[discord]: https://discord.gg/u4vgF52qFs 
-[twitter]: https://twitter.com/NirosTen
-[youtube]: https://www.youtube.com/channel/UCXZ55usGiM7JSEwVmlOlbHQ/featured
+[twitch]: https://www.twitch.tv/
+[discord]: https://discord.gg/p8CWB8Mkdx
+[twitter]: https://twitter.com/JPR0DIGE
+[youtube]: https://www.youtube.com/channel/UCY3SVtbiAW1aB1leN8ycaVg
